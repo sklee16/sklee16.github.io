@@ -9,6 +9,7 @@ title: CV
 # Education
 ### B.S. in Mathematics with Computer Science (2017 - 2020)
 #### Study abroad at University of St. Andrews (2019)
+
 ### duPont Manual High School (2013 - 2017)
 <br/>
 
