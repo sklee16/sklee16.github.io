@@ -18,36 +18,42 @@ cover-img: /assets/img/main3.jpg
 # Research Experience
 ### Department of State
 #### Data Analyst, 2019 - 2020
-* Role: Develop budget-constrained regression model to provide assistance with future budgeting
+* Developed budget-constrained regression model to provide assistance with future budgeting
 
 ### Military Family Research Institute
 #### Research Data Assistant, 2017 - 2018
 *  Project: _**Star Behavioral Health Provider**_
-  * Role: Design models to research effectiveness of military behavioral health training program in the Statistical Program for Social Sciences (SPSS)
+  * Designed models to research effectiveness of military behavioral health training program in the Statistical Program for Social Sciences (SPSS)
+
+### James Graham Brown Cancer Center
+#### Student Researcher, 2016 - 2017
+* Focused on using Nuclear Magnetic Resonance (NMR) spectroscopy with a goal of investing the connection between the time-scales of the biophysical phenomena within biomolecules and the time-scales of biomolecular dynamics
+* Conducted experiments to enhance the existing method development for NMR applications to biomolecules
+* Designed and developed web pages to promote the first annual NMR conference. 
 <br/>
 
 # Work Experience (Selected)
 ### Principal Financial Group
 #### Data & Operation Research Intern, 2019 - 2020
-* Role: Develop signaling models in Python and R to support Fixed Income portfolios
-* Role: Conducted weekly meetings with stakeholders to ensure that all requirements were met. 
+* Developed signaling models in Python and R to support Fixed Income portfolios
+* Conducted weekly meetings with stakeholders to ensure that all requirements were met. 
 <br/>
 
 # Volunteer Experience
 ### Women in Science Program
 #### Mentor (2018 - 2020)
-* Role: Mentored first-year students in the field of science, specifically technology and mathematics
+* Mentored first-year students in the field of science, specifically technology and mathematics
 
 ### St. Thomas Aquinas Catholic Church
 #### Piano Accompanist (2017 - 2020)
-* Role: Performed at an average of 10 events per month, including special functions and rehearsals
-* Role: Conducted on average of 2 sectional rehearsals per week with the choir and work with cantors at rehearsals
-* Role: Accompany choir and other instrumentalists at rehearsal and liturgy
+* Performed at an average of 10 events per month, including special functions and rehearsals
+* Conducted on average of 2 sectional rehearsals per week with the choir and work with cantors at rehearsals
+* Accompany choir and other instrumentalists at rehearsal and liturgy
 
 ### Purdue Student Government
 #### Director of Technology (2018 - 2020), Director of Communications (2017)
-* Role: Design and enhance website to improve user experience, and deploy surveys to enhance students' experiences 
-* Role:	Facilitated communication with 40 Board of Directors to assist with various projects
+* Designed and enhanced website to improve user experience, and deploy surveys to enhance students' experiences 
+* Facilitated communication with 40 Board of Directors to assist with various projects
 
 <br/>
 
