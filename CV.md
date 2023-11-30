@@ -13,6 +13,7 @@ cover-img: /assets/img/main3.jpg
 #### Study abroad at University of St. Andrews (2019)
 
 ### duPont Manual High School (2013 - 2017)
+
 <br/>
 
 # Research Experience
@@ -30,6 +31,7 @@ cover-img: /assets/img/main3.jpg
 * Focused on using Nuclear Magnetic Resonance (NMR) spectroscopy with a goal of investing the connection between the time-scales of the biophysical phenomena within biomolecules and the time-scales of biomolecular dynamics
 * Conducted experiments to enhance the existing method development for NMR applications to biomolecules
 * Designed and developed web pages to promote the first annual NMR conference. 
+
 <br/>
 
 # Work Experience (Selected)
@@ -37,6 +39,7 @@ cover-img: /assets/img/main3.jpg
 #### Data & Operation Research Intern, 2019 - 2020
 * Developed signaling models in Python and R to support Fixed Income portfolios
 * Conducted weekly meetings with stakeholders to ensure that all requirements were met. 
+
 <br/>
 
 # Volunteer Experience
