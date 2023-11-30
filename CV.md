@@ -24,16 +24,18 @@ cover-img: /assets/img/main3.jpg
 #### Research Data Assistant, 2017 - 2018
 *  Project: _**Star Behavioral Health Provider**_
   * Role: Design models to research effectiveness of military behavioral health training program in the Statistical Program for Social Sciences (SPSS)
+<br/>
 
-# Work Experience
+# Work Experience (Selected)
 ### Principal Financial Group
 #### Data & Operation Research Intern, 2019 - 2020
 * Role: Develop signaling models in Python and R to support Fixed Income portfolios
 * Role: Conducted weekly meetings with stakeholders to ensure that all requirements were met. 
+<br/>
 
 # Volunteer Experience
 ### Women in Science Program
-#### Mentor (2018 - 2020))
+#### Mentor (2018 - 2020)
 * Role: Mentored first-year students in the field of science, specifically technology and mathematics
 
 ### St. Thomas Aquinas Catholic Church
@@ -47,6 +49,7 @@ cover-img: /assets/img/main3.jpg
 * Role: Design and enhance website to improve user experience, and deploy surveys to enhance students' experiences 
 * Role:	Facilitated communication with 40 Board of Directors to assist with various projects
 
+<br/>
 
 # Honors and Awards (Selected)
 *	Achievement in Adversity - Special Act Award (11/2022)
