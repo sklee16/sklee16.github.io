@@ -44,7 +44,7 @@ cover-img: /assets/img/main3.jpg
 * Role: Conducted on average of 2 sectional rehearsals per week with the choir and work with cantors at rehearsals
 * Role: Accompany choir and other instrumentalists at rehearsal and liturgy
 
-#### Purdue Student Government
+### Purdue Student Government
 #### Director of Technology (2018 - 2020), Director of Communications (2017)
 * Role: Design and enhance website to improve user experience, and deploy surveys to enhance students' experiences 
 * Role:	Facilitated communication with 40 Board of Directors to assist with various projects
