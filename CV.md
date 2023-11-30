@@ -31,6 +31,22 @@ cover-img: /assets/img/main3.jpg
 * Role: Develop signaling models in Python and R to support Fixed Income portfolios
 * Role: Conducted weekly meetings with stakeholders to ensure that all requirements were met. 
 
+# Volunteer Experience
+### Women in Science Program
+#### Mentor (2018 - 2020))
+* Role: Mentored first-year students in the field of science, specifically technology and mathematics
+
+### St. Thomas Aquinas Catholic Church
+#### Piano Accompanist (2017 - 2020)
+* Role: Performed at an average of 10 events per month, including special functions and rehearsals
+* Role: Conducted on average of 2 sectional rehearsals per week with the choir and work with cantors at rehearsals
+* Role: Accompany choir and other instrumentalists at rehearsal and liturgy
+
+#### Purdue Student Government
+#### Director of Technology (2018 - 2020), Director of Communications (2017)
+* Role: Design and enhance website to improve user experience, and deploy surveys to enhance students' experiences 
+* Role:	Facilitated communication with 40 Board of Directors to assist with various projects
+
 
 # Honors and Awards (Selected)
 *	Achievement in Adversity - Special Act Award (11/2022)
