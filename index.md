@@ -29,5 +29,5 @@ She loves teaching mathematics and programming to her students and fellow develo
 ## Contact
 
 ```
-Email: sookyung.lee[at]outlook.com
+Email: sklee16[at]outlook.com
 ```
