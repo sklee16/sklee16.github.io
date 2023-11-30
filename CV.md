@@ -1,6 +1,8 @@
 ---
 layout: page
 title: CV
+cover-img: /assets/img/main3.jpg
+
 ---
 
 <br/>
