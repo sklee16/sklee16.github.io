@@ -12,7 +12,7 @@ author: Sookyung Lee
 # Nav bar
 # If wanting to add a new tab, such as TEST, create test.md file and indicate TEST: "test"
 navbar-links:
-  CV: "CV"
+  Resume: "Resume"
  # Publication: "publication"
   GitHub: "https://github.com/sklee16"
 
