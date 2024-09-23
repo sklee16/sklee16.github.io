@@ -9,7 +9,11 @@ cover-img: /assets/img/main3.jpg
 
 
 # Education
+### M.S. in Computer Science with Specialization in Machine Learning (2024 - Present)
+#### Georgia Institute of Technology
+#### Expected Graduation Year: 2026
 ### B.S. in Mathematics with Computer Science (2017 - 2020)
+#### Purdue University
 #### Study abroad at University of St. Andrews (2019)
 
 ### duPont Manual High School (2013 - 2017)
@@ -19,7 +23,8 @@ cover-img: /assets/img/main3.jpg
 # Research Experience
 ### Department of State
 #### Data Analyst, 2019 - 2020
-* Developed budget-constrained regression model to provide assistance with future budgeting
+* Developed budget-constrained regression model with accuracy rate of 92% to provide assistance with future budgeting
+* Visualized the projected budget of Senegal Embassy’s budget on a Power BI dashboard.
 
 ### Military Family Research Institute
 #### Research Data Assistant, 2017 - 2018
@@ -37,12 +42,16 @@ cover-img: /assets/img/main3.jpg
 # Work Experience (Selected)
 ### Principal Financial Group
 #### Data & Operation Research Intern, 2019 - 2020
-* Developed signaling models in Python and R to support Fixed Income portfolios
+•	Developed signaling models in Python and R and Power BI dashboards to support Fixed Income portfolios across 4 distinct assets, resulting in an 18% increase in return on investment (ROI).
 * Conducted weekly meetings with stakeholders to ensure that all requirements were met. 
 
 <br/>
 
 # Volunteer Experience
+### Workforce Council
+#### Directorate Chair (2023 - Present)
+* Organize and plan for professional development, leadership forums, morale events, and fundraising events
+
 ### Women in Science Program
 #### Mentor (2018 - 2020)
 * Mentored first-year students in the field of science, specifically technology and mathematics
@@ -73,6 +82,9 @@ cover-img: /assets/img/main3.jpg
 <br/>
 
 # Teaching Experience
+* Private Math & CS Tutoring
+  * 2016 - Present
+    
 * Intro to Object-Oriented Programming, Yale Young Global Scholars
   * Summer 2018
 
@@ -82,5 +94,4 @@ cover-img: /assets/img/main3.jpg
 * Applications of Cybersecurity, Yale Young Global Scholars
   * Summer 2018
 
-* Private Math & CS Tutoring
-  * 2016 - 2021
+
