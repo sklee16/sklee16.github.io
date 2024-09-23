@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Resume
 cover-img: /assets/img/main3.jpg
 
 ---
@@ -12,11 +12,11 @@ cover-img: /assets/img/main3.jpg
 ### M.S. in Computer Science with Specialization in Machine Learning (2024 - Present)
 #### Georgia Institute of Technology
 #### Expected Graduation Year: 2026
-###
+<br/>
 ### B.S. in Mathematics with Computer Science (2017 - 2020)
 #### Purdue University
 #### Study abroad at University of St. Andrews (2019)
-###
+<br/>
 ### duPont Manual High School (2013 - 2017)
 
 <br/>
