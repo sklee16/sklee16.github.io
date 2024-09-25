@@ -111,6 +111,8 @@ cover-img: /assets/img/main3.jpg
 * Applications of Cybersecurity, Yale Young Global Scholars
   * Summer 2018
 
+<br/>
+
 # Certifications (Selected)
 * Project Management Professional (PMP) (June 2023)
 * Microsoft Azure Artificial Intelligence (AI-900) (Jan 2023)
