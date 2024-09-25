@@ -14,7 +14,9 @@ cover-img: /assets/img/main3.jpg
 #### Expected Graduation Year: 2026
 #### Relevant Coursework
 * Machine Learning for Trading; Introduction to Graduate Algorithms
+
 <br/>
+
 ### B.S. in Mathematics with Computer Science (08/2017 - 12/2020) | West Lafayette, IN
 #### Purdue University
 #### Minor in Economics
