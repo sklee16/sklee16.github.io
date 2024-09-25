@@ -9,13 +9,18 @@ cover-img: /assets/img/main3.jpg
 
 
 # Education
-### M.S. in Computer Science with Specialization in Machine Learning (2024 - Present)
+### M.S. in Computer Science with Specialization in Machine Learning (08/2024 - Present)
 #### Georgia Institute of Technology
 #### Expected Graduation Year: 2026
+#### Relevant Coursework: Machine Learning for Trading; Introduction to Graduate Algorithms
 <br/>
-### B.S. in Mathematics with Computer Science (2017 - 2020)
+### B.S. in Mathematics with Computer Science (08/2017 - 12/2020) | West Lafayette, IN
 #### Purdue University
-#### Study abroad at University of St. Andrews (2019)
+#### Minor in Economics
+#### Relevant Coursework (* indicates graduate level/honors): 
+* Numerical Analysis*, Data Structures and Algorithms, Real Analysis I*, Real Analys II*, Abstract Algebra*, Linear Algebra, Object-Oriented Programming, C, Differential Equations, Econometrics*
+#### Study abroad at University of St. Andrews (Spring 2019) | St. Andrews, United Kingdom
+* Completed coursework in Mathematics & Computer Science: Mathematical Modeling; Automata, Languages and Complexity; Symbolic Computation; Vector Calculus
 <br/>
 ### duPont Manual High School (2013 - 2017)
 
@@ -29,8 +34,8 @@ cover-img: /assets/img/main3.jpg
 
 ### Military Family Research Institute
 #### Research Data Assistant, 2017 - 2018
-*  Project: _**Star Behavioral Health Provider**_
-  * Designed models to research effectiveness of military behavioral health training program in the Statistical Program for Social Sciences (SPSS)
+*  Project: _**Star Behavioral Health Provider**
+*  Designed models to research effectiveness of military behavioral health training program in the Statistical Program for Social Sciences (SPSS)
 
 ### James Graham Brown Cancer Center
 #### Student Researcher, 2016 - 2017
@@ -43,7 +48,7 @@ cover-img: /assets/img/main3.jpg
 # Work Experience (Selected)
 ### Principal Financial Group
 #### Data & Operation Research Intern, 2019 - 2020
-•	Developed signaling models in Python and R and Power BI dashboards to support Fixed Income portfolios across 4 distinct assets, resulting in an 18% increase in return on investment (ROI).
+* Developed signaling models in Python and R and Power BI dashboards to support Fixed Income portfolios across 4 distinct assets, resulting in an 18% increase in return on investment (ROI).
 * Conducted weekly meetings with stakeholders to ensure that all requirements were met. 
 
 <br/>
@@ -51,7 +56,9 @@ cover-img: /assets/img/main3.jpg
 # Volunteer Experience
 ### Workforce Council
 #### Directorate Chair (2023 - Present)
-* Organize and plan for professional development, leadership forums, morale events, and fundraising events
+* Coordinate and plan for professional development and leadership forums for both civilian and military
+* Organize morale events and fundraising events to enhance camaraderie of the workforce
+* Responsible for developing and overseeing workforce programs
 
 ### Women in Science Program
 #### Mentor (2018 - 2020)
@@ -71,15 +78,21 @@ cover-img: /assets/img/main3.jpg
 <br/>
 
 # Honors and Awards (Selected)
+*	Excelling in Expanded Responsibility - Special Act Award (06/2022, 08/2024)
+* Civilian Academic Studies Program Award (09/2023)
+* Driving Innovative Change (02/2022, 03/2022, 12/2022, 05/2023)
 *	Achievement in Adversity - Special Act Award (11/2022)
-*	Excelling in Expanded Responsibility - Special Act Award (06/2022)
 * [U.S. Department of State Benjamin A. Gilman International Scholarship](https://www.purdue.edu/niso/scholars/Lee,%20Sue%2019gl.php) (2018) 
-* Purdue Presidential Scholarship (2017-2021)
+* Purdue Presidential Scholarship (2017-2020)
 * Jean E. Rubin Mathematics Scholarship (2019)
 * Women in Science Scholarship (2019)
 * Mae Lloyd J. Jandos Memorial Mathematics Scholars (2018)
 
+<br/>
 
+# Conference Presentations
+* “Adapting Data Science Solutions for Strategic Competition,” DoD Conference (December 2022)
+  
 <br/>
 
 # Teaching Experience
@@ -95,4 +108,9 @@ cover-img: /assets/img/main3.jpg
 * Applications of Cybersecurity, Yale Young Global Scholars
   * Summer 2018
 
+# Certifications (Selected)
+* Project Management Professional (PMP) (June 2023)
+* Microsoft Azure Artificial Intelligence (AI-900) (Jan 2023)
+*  CompTIA Security+ (June 2022)
+  
 
