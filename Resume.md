@@ -19,10 +19,10 @@ cover-img: /assets/img/main3.jpg
 
 ### B.S. in Mathematics with Computer Science (08/2017 - 12/2020) | West Lafayette, IN
 #### Purdue University
-#### Minor in Economics
-#### Relevant Coursework (^ indicates graduate level/honors)
+##### Minor in Economics
+##### Relevant Coursework (^ indicates graduate level/honors)
 * Numerical Analysis^, Data Structures and Algorithms, Real Analysis I^, Real Analys II^, Abstract Algebra^, Linear Algebra, Object-Oriented Programming, C, Differential Equations, Econometrics^
-#### Study abroad at University of St. Andrews (Spring 2019) | St. Andrews, United Kingdom
+##### Study abroad at University of St. Andrews (Spring 2019) | St. Andrews, United Kingdom
 * Completed coursework in Mathematics & Computer Science: Mathematical Modeling; Automata, Languages and Complexity; Symbolic Computation; Vector Calculus
   
 <br/>
