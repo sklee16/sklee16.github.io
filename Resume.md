@@ -9,7 +9,7 @@ cover-img: /assets/img/main3.jpg
 
 
 # Education
-### M.S. in Computer Science with Specialization in Machine Learning (08/2024 - Present)
+## M.S. in Computer Science with Specialization in Machine Learning (08/2024 - Present)
 #### Georgia Institute of Technology
 #### Expected Graduation Year: 2026
 #### Relevant Coursework
@@ -21,7 +21,7 @@ cover-img: /assets/img/main3.jpg
 #### Purdue University
 ##### Minor in Economics
 ##### Relevant Coursework (^ indicates graduate level/honors)
-* Numerical Analysis^, Data Structures and Algorithms, Real Analysis I^, Real Analys II^, Abstract Algebra^, Linear Algebra, Object-Oriented Programming, C, Differential Equations, Econometrics^
+* Numerical Analysis^, Data Structures and Algorithms, Real Analysis I^, Real Analys II^, Abstract Algebra^, Econometrics, Linear Algebra, Object-Oriented Programming, C, Differential Equations,  
 ##### Study abroad at University of St. Andrews (Spring 2019) | St. Andrews, United Kingdom
 * Completed coursework in Mathematics & Computer Science: Mathematical Modeling; Automata, Languages and Complexity; Symbolic Computation; Vector Calculus
   
