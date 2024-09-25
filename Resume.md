@@ -12,12 +12,13 @@ cover-img: /assets/img/main3.jpg
 ### M.S. in Computer Science with Specialization in Machine Learning (08/2024 - Present)
 #### Georgia Institute of Technology
 #### Expected Graduation Year: 2026
-#### Relevant Coursework: Machine Learning for Trading; Introduction to Graduate Algorithms
+#### Relevant Coursework
+* Machine Learning for Trading; Introduction to Graduate Algorithms
 <br/>
 ### B.S. in Mathematics with Computer Science (08/2017 - 12/2020) | West Lafayette, IN
 #### Purdue University
 #### Minor in Economics
-#### Relevant Coursework (^ indicates graduate level/honors): 
+#### Relevant Coursework (^ indicates graduate level/honors)
 * Numerical Analysis^, Data Structures and Algorithms, Real Analysis I^, Real Analys II^, Abstract Algebra^, Linear Algebra, Object-Oriented Programming, C, Differential Equations, Econometrics^
 #### Study abroad at University of St. Andrews (Spring 2019) | St. Andrews, United Kingdom
 * Completed coursework in Mathematics & Computer Science: Mathematical Modeling; Automata, Languages and Complexity; Symbolic Computation; Vector Calculus
@@ -37,7 +38,7 @@ cover-img: /assets/img/main3.jpg
 
 ### Military Family Research Institute
 #### Research Data Assistant, 2017 - 2018
-*  Project: _**Star Behavioral Health Provider**
+*  Project: _**Star Behavioral Health Provider**_
 *  Designed models to research effectiveness of military behavioral health training program in the Statistical Program for Social Sciences (SPSS)
 
 ### James Graham Brown Cancer Center
@@ -50,7 +51,7 @@ cover-img: /assets/img/main3.jpg
 
 # Work Experience (Selected)
 ### Principal Financial Group
-#### Data & Operation Research Intern, 2019 - 2020
+#### Quantitative Science & Operation Researcher, 2019
 * Developed signaling models in Python and R and Power BI dashboards to support Fixed Income portfolios across 4 distinct assets, resulting in an 18% increase in return on investment (ROI).
 * Conducted weekly meetings with stakeholders to ensure that all requirements were met. 
 
