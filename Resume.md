@@ -22,6 +22,8 @@ cover-img: /assets/img/main3.jpg
 #### Minor in Economics
 #### Relevant Coursework (_indicates graduate level/honors_)
 * _Numerical Analysis_, Data Structures and Algorithms, _Real Analysis I_, _Real Analysis II_, _Abstract Algebra_, Linear Algebra, Object-Oriented Programming, C, Differential Equations, _Econometrics_
+<br/>
+
 #### Study abroad at University of St. Andrews (Spring 2019) | St. Andrews, United Kingdom
 * Completed coursework in Mathematics & Computer Science: Mathematical Modeling; Automata, Languages and Complexity; Symbolic Computation; Vector Calculus
 
