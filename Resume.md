@@ -24,11 +24,6 @@ cover-img: /assets/img/main3.jpg
 * Numerical Analysis^, Data Structures and Algorithms, Real Analysis I^, Real Analys II^, Abstract Algebra^, Econometrics, Linear Algebra, Object-Oriented Programming, C, Differential Equations,  
 ##### Study abroad at University of St. Andrews (Spring 2019) | St. Andrews, United Kingdom
 * Completed coursework in Mathematics & Computer Science: Mathematical Modeling; Automata, Languages and Complexity; Symbolic Computation; Vector Calculus
-  
-<br/>
-### duPont Manual High School (2013 - 2017)
-* Valedictorian
-* Mathematics, Science and Technology Scholar
 
 <br/>
 
