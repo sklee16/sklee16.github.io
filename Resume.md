@@ -13,8 +13,7 @@ cover-img: /assets/img/main3.jpg
 #### Georgia Institute of Technology
 #### Expected Graduation Year: 2026
 #### Relevant Coursework
-* Machine Learning for Trading; Introduction to Graduate Algorithms
-
+* Machine Learning for Trading; Robotics: AI Techniques; Natural Language Processing; Machine Learning; AI Ethics and Society.
 <br/>
 
 ### B.S. in Mathematics with Computer Science (08/2017 - 12/2020) | West Lafayette, IN
